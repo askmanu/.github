@@ -17,4 +17,4 @@ Right now, askmanu is focused on reference documentation. Having that is a stron
 We will very soon add the ability to update and create MD files (like the ones in the `/docs` folder).
 
 ### 🔒 Privacy
-askmanu doesn't store your code. We pull it from github every time we process it. We only share the code with the model provider according to your [Privacy Policy](https://docs.askmanu.co/legal/privacy)
+askmanu doesn't store your code. We pull it from github every time we process it. We only share the code with the model provider according to our [Privacy Policy](https://docs.askmanu.co/legal/privacy)
